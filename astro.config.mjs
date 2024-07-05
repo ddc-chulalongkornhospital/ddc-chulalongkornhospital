@@ -6,5 +6,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://ddc-chulalongkornhospital.github.io',
-  base: 'ddc-chulalongkornhospital',
+  base: '/',
 });
